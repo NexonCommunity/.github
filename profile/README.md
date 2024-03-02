@@ -10,11 +10,11 @@ Welcome to the Nexon Community Organization GitHub repository! This organization
 
 ## About Nexon Airlines
 
-[Nexon Airlines]([#](https://nexonairlines.com/)) is a virtual subsidiary of Nexon Logistics, offering a realistic and immersive flying experience for aviation enthusiasts. Founded on July 14th, 2023, Nexon Airlines provides virtual flights, community engagement opportunities, and much more for virtual pilots and aviation enthusiasts.
+[Nexon Airlines]([#](https://nexonairlines.com/) is a virtual subsidiary of Nexon Logistics, offering a realistic and immersive flying experience for aviation enthusiasts. Founded on July 14th, 2023, Nexon Airlines provides virtual flights, community engagement opportunities, and much more for virtual pilots and aviation enthusiasts.
 
 ## About Sunrise Events
 
-[Sunrise Events]([#](https://www.sunriseevents.in/)) is a subsidiary of Nexon Logistics, specializing in event management and coordination. With a dedicated team experienced in organizing and supervising events, Sunrise Events ensures seamless and memorable experiences for participants. From small convoys to larger events, Sunrise Events delivers top-notch convoy support.
+[Sunrise Events]([#](https://www.sunriseevents.in/) is a subsidiary of Nexon Logistics, specializing in event management and coordination. With a dedicated team experienced in organizing and supervising events, Sunrise Events ensures seamless and memorable experiences for participants. From small convoys to larger events, Sunrise Events delivers top-notch convoy support.
 
 ## Stay Connected
 
